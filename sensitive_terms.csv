@@ -1,0 +1,5 @@
+﻿term,category,sensitivity_level
+sensitive_keyword1,Category1,3
+sensitive_keyword2,Category2,2
+private_term,Category3,4
+confidential_info,Category1,5
